@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="Главная", page_icon="🏠")
+st.set_page_config(page_title="История", page_icon="🏠")
 data = pd.DataFrame()
 
 def scolz_mean_plot(data):

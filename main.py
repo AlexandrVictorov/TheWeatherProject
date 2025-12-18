@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 
+st.set_page_config(page_title="Главная", page_icon="🏠")
+
 data = pd.DataFrame()
 st.title("Заполните данные и получите аналитику по погоде 🌊")
 
