@@ -1,4 +1,5 @@
 # [Weather Analysis Dashboard](https://theweather-victorov.streamlit.app/)
+https://theweather-victorov.streamlit.app/
 
 Простое веб-приложение на Streamlit для анализа погоды по городам.
 
